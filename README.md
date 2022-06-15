@@ -12,3 +12,4 @@ The Methods we used in this applicaton:
 
 sending requests from the clients with data thats server needs and
 do the method that the user asked for then return response with body and response code to the client.
+![Image](https://user-images.githubusercontent.com/38558741/173790648-f14c9648-be31-492b-ab65-e91fd171c7f4.png)
